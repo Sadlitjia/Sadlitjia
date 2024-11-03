@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name] 
+# Hi there! 👋 I'm Agil 
 
 I'm a passionate **Web Developer** who loves crafting beautiful and functional web applications. My journey in coding started with simple HTML pages, and today I specialize in creating interactive, dynamic web applications using modern frameworks and tools.
 
@@ -7,7 +7,7 @@ I'm a passionate **Web Developer** who loves crafting beautiful and functional w
 ---
 
 ### 🌟 About Me
-- 🚀 **5+ years** of experience in web development.
+- 🚀 **3+ years** of experience in web development.
 - 💻 Proficient in **JavaScript**, **HTML5**, **CSS3**, **React**, **Node.js**, **Express**, **MongoDB**, and more.
 - 🎨 Lover of minimalistic and responsive design.
 - 📚 Always learning something new: currently diving into **TypeScript** and **Web3.0**!
