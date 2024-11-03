@@ -1,62 +1,58 @@
+# Hi there! 👋 I'm [Your Name] 
 
-<!--
-**Sadlitjia/Sadlitjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Web Developer** who loves crafting beautiful and functional web applications. My journey in coding started with simple HTML pages, and today I specialize in creating interactive, dynamic web applications using modern frameworks and tools.
 
-Here are some ideas to get you started:
+![Your favorite coding GIF or banner here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+### 🌟 About Me
+- 🚀 **5+ years** of experience in web development.
+- 💻 Proficient in **JavaScript**, **HTML5**, **CSS3**, **React**, **Node.js**, **Express**, **MongoDB**, and more.
+- 🎨 Lover of minimalistic and responsive design.
+- 📚 Always learning something new: currently diving into **TypeScript** and **Web3.0**!
 
-<br />
+---
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+### ⚙️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-**About me**
+---
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### 💼 Featured Projects
+1. **[Project Name 1](link-to-project)**  
+   A brief description of what this project does and why it’s amazing!
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+2. **[Project Name 2](link-to-project)**  
+   Another project highlight that showcases your skills in web development.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+3. **[Project Name 3](link-to-project)**  
+   Description of how this project demonstrates your problem-solving abilities and technical expertise.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+### 📈 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
+---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-handle)
+- [Portfolio](https://your-portfolio.com)
+- 📧 Email: youremail@example.com
 
-#### Top Repositories
+---
 
+✨ _"Building web solutions that bring ideas to life."_ ✨
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+---
 
