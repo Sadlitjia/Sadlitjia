@@ -27,22 +27,8 @@ I'm a passionate **Web Developer** who loves crafting beautiful and functional w
 
 ---
 
-### 💼 Featured Projects
-1. **[Project Name 1](link-to-project)**  
-   A brief description of what this project does and why it’s amazing!
 
-2. **[Project Name 2](link-to-project)**  
-   Another project highlight that showcases your skills in web development.
 
-3. **[Project Name 3](link-to-project)**  
-   Description of how this project demonstrates your problem-solving abilities and technical expertise.
-
----
-
-### 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
----
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/your-profile)
