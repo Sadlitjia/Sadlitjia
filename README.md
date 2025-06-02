@@ -2,7 +2,6 @@
 
 I'm a passionate **Web Developer** who loves crafting beautiful and functional web applications. My journey in coding started with simple HTML pages, and today I specialize in creating interactive, dynamic web applications using modern frameworks and tools.
 
-![Your favorite coding GIF or banner here]
 
 ---
 
